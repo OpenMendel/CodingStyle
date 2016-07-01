@@ -9,3 +9,6 @@ Coding style guidelines for OpenMendel packages
 
 ## Package suggestions
 - Unit-tests
+
+## Acknowledgments
+This project is supported through National Institutes of Health R01 HG006139.
